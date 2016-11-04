@@ -1,4 +1,4 @@
-# # JUDUL
+# JUDUL
   RecycleView1
 
 # SCREENSHOT
